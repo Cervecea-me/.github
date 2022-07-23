@@ -2,7 +2,6 @@
 
 Sitio web dedicado a la elaboración casera de cerveza.
 
-Este sitio web está elaborado haciendo uso de Jekyll, un SSG (generador de sitios web estáticos). Las 'tripas' de [cervecea.me][cervecea-me] pueden encontrarse en [ESTE][repositorio] repositorio.
+Este sitio web está elaborado haciendo uso de Jekyll, un SSG (generador de sitios web estáticos). Todo el contenido está disponible en [Cervecea.me][cervecea-me]
 
 [cervecea-me]: https://cervecea.me
-[repositorio]: https://github.com/Cervecea-me/website
